@@ -1,0 +1,83 @@
+[0:00-0:05] Şimdi burada NeapLaybook'a tıklıyorum. NeapLaybook'a tıkladıktan sonra Playbook'a bir isim veriyorum.
+[0:05-0:07] Örneğin deneme 2.
+[0:07-0:11] Burada player per site'den 500 eşit sağ boyutlarını kendime göre ayarlayabilirim ama bunu yapmana gerek yok.
+[0:11-0:15] Classic Flexball sahası boyutlarını versen direkt yeter.
+[0:15-0:22] Bunu onayladıktan sonra burada yuvarlık işareti offens'ı x işareti defans temsil ediyor.
+[0:22-0:24] Şu an offens'ı tarafına gösteriyorum.
+[0:24-0:30] Offens'ı tarafına geçtikten sonra neapoffensifplay'i deyip offensifplay'i ekliyorum buraya.
+[0:30-0:33] İsmini yazıyorum. Şu andaki x, x, x, x koydum.
+[0:33-0:36] Sonra da koşumu, pasımı, oyunu olduğunu seçiyorum.
+[0:36-0:40] Pas oyunu seçtikten sonra onaylayı tıklıyorum ve beni çizim alanına aktarıyor.
+[0:40-0:47] Çizim alanında önce üst sekmelerden bahsedeceğim. Bu kilitleme işaretine basınca herhangi bir şekilde hiçbir şey çizemiyorum, oynayamıyorum.
+[0:47-0:52] Onlarca information'a tıkladığım zaman ismini değiştirebiliyorum Playbook'un.
+[0:52-0:55] Onlarca koşu ve pas olduğunu tekrardan değiştirebiliyorum.
+[0:55-0:59] Copylayabiliyorum. Copylediğim zaman bu oyunun aynısı Playbook'da copylanıyor.
+[0:59-1:06] Onlarca not ekleyebiliyorum. Pozisyonlara özel notlar da ekleyebiliyorum. Genel notlar da ekleyebiliyorum.
+[1:06-1:11] Sonrasında burada sağ ayarları var.
+[1:11-1:16] Sağ'ın beyaz mı, siyah mı gözükmesini istediğimi, don't snap, snap to glitter kısmı.
+[1:16-1:19] Karşılarındaki defansı göster, göstermem olayı.
+[1:19-1:25] Gösterdiğim zaman karşılarına defans geliyor ve aynı şekilde bu defansları da böyle ayarlayabiliyorum.
+[1:27-1:30] Bu şekilde ayarlayabiliyorum yerlerini. Şu an kapatıyorum bunu.
+[1:30-1:40] Burada backfield, standard ve ilk 5 yard situation'da kendimi ayarlayabiliyorum.
+[1:40-1:47] Sonrasında oyuncuları flipleyebiliyorum.
+[1:47-1:50] X ve double yerdeni değiştirebiliyorum.
+[1:50-1:53] Buradan bunları ekleyebiliyorum.
+[1:53-1:57] Ne olduğunu vesaire.
+[1:58-1:59] Extra'dan.
+[1:59-2:05] Ama buna gerek yok istersen eklemeyebilirsin.
+[2:05-2:08] Sonrasında çizim mantığına geçiyorum.
+[2:08-2:13] Çizim mantığında her yuvarlığa tıklayıp istediğim gibi sadece ileri doğru götüremiyorum.
+[2:13-2:16] Bu şekilde oynatabiliyorum.
+[2:16-2:21] Bunu buraya koyduktan sonra istersen basılı tutarak rotasını çizebiliyorum.
+[2:21-2:27] İstersen de tek tuşla basarak rotasını çizebiliyorum.
+[2:27-2:30] Onlarca burada çizim şekilleri var.
+[2:30-2:35] Bunun istersen simgesine yıldız yapabiliyorum.
+[2:35-2:39] Çizim şekilleri burada.
+[2:39-2:43] Eğer şu oki şartını bu şekilde yaparsam çizim buna dönüyor.
+[2:43-2:45] Bu şekilde yaparsam buna dönüyor.
+[2:45-2:47] Bu şekilde yaparsam oki şartını geri dönüyor.
+[2:47-2:49] Burada extra'dan zigzag çizim olayı var.
+[2:49-2:52] Bu zigzag çizimin olayı genelde motion için kullanılıyor.
+[2:52-2:59] Mesela bir motion yapacaksam bu şekilde motion olduğunu belirtiyorum.
+[2:59-3:03] Onlarca kesik çizgiler.
+[3:03-3:05] Bu şekilde çizim.
+[3:05-3:14] Onlarca eğer bir rota keskin değilse mesela bu rota keskin ama keskin yapmak istemiyorsam buna basıp ovalleştirebiliyorum.
+[3:14-3:17] Direkt oval çizime geçirebiliyorum.
+[3:17-3:27] Bunun keskin olmasını istiyorsam bu şekilde ayarlayabiliyorum.
+[3:27-3:28] Offense kısmını.
+[3:28-3:33] Playbook çizim mantığının bu şekilde olmasını istiyorum.
+[3:33-3:37] Onlarca defans tarafına geçtiğimiz zaman da base ve resin olarak seçebiliyorum.
+[3:37-3:41] Burada mesela cover 3 seçtim.
+[3:41-3:43] Onu ayıralım.
+[3:43-3:46] Burada defansın geliyor ve burada da istediğim şekilde oynayabiliyorum.
+[3:46-3:48] Defansla.
+[3:48-3:53] Gene aynı şekilde karşılarına offense koyabiliyorum.
+[3:53-3:55] Bu şekilde.
+[3:55-4:09] Örneğin basic bir cover 3 çiziyorum şu an.
+[4:09-4:11] Şu an basic bir cover 3 çiziyorum.
+[4:11-4:13] Buradan okumu buraya getirdim.
+[4:14-4:15] Burada bu işaret var.
+[4:15-4:17] Bu zone olduğu anlamına geliyor.
+[4:17-4:21] Gene çizim mantıkları kesik kesik çizimler zigzag şekilde çizimler.
+[4:21-4:26] Bu block şeması işte yuvarlak düz çizgi oval olmasını istiyorsam.
+[4:26-4:28] Bu şekilde yine düzenleyebiliyorum.
+[4:28-4:30] Bu şekilde zone'un büyüklüğünü ayarlayabiliyorum.
+[4:30-4:37] Gösterebiliyorum.
+[4:37-4:44] Ve şöyle bu şekilde gösteriyorum.
+[4:44-4:47] Yani çizim mantığının çok basic akıcı bir şekilde olması lazım.
+[4:47-4:49] Aynı zamanda burada oynatma tuşu var.
+[4:49-4:54] Oynatma tuşuna bastığım zaman da bu şekilde oynayabiliyor.
+[4:54-5:05] Burada hem offense tarafında hem defense tarafında da burada çizimler yapabiliyorum tabi ki de.
+[5:05-5:08] Onun haricinde buraya da play ekleyebiliyorum.
+[5:08-5:12] Buradan edit kategori deyip yeni kategori oduşturabiliyorum.
+[5:12-5:14] Mesela run pass var.
+[5:14-5:16] Bu run passe'e bir de endzone ekliyorum.
+[5:16-5:20] Endzone eklediğim zaman bu kategori olarak buraya geliyor.
+[5:20-5:24] Geri döndüğüm zaman endzone'un içine gelip endzone'a yeni playler oduşturabiliyorum.
+[5:24-5:30] Hem offense'da da defense tarafında da edit kategori deyip cover.
+[5:31-5:41] Cover altı kategorisi deyip oluşturup cover altı'nın içine gelip buradan cover altı'yı seçip ok deyip çizime başlayabiliyorum.
+[5:41-5:44] Buradan gene show'layalım.
+[5:44-5:54] Base cover altı.
+[5:54-6:11] Çizim mantığı bu şekilde.
+[6:11-6:13] Kategoriler bu şekilde.
+[6:13-6:15] Playbook oluşma mantığı bu şekilde.
